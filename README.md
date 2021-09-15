@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Houshyar-jfr
 - 👀 I’m interested in Physics, Quantum Gravity, Artificial Intelligence and Quantum Computing
 - 🌱 I’m currently Learning Deep Learning
-- 💞️ I’m looking to collaborate on High Energy Physics and Quantum Gravity projects and Datasets.
+- 💞️ I’m looking to collaborate on High Energy Physics and Quantum Gravity projects and datasets.
 - 📫 How to reach me houshyarjafari@std.kashanu.ac.ir & www.linkedin.com/in/houshyar-j-b5aa7b105
 
 <!---
