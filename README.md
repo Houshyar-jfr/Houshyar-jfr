@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Houshyar-jfr
-- 👀 I’m interested in Physics, Quantum Gravity, Artificial Intelligence and Quantum Computing
-- 💞️ I’m looking to collaborate on High Energy Physics and Quantum Gravity projects and datasets.
-- 📫 How to reach me houshyarjafari@std.kashanu.ac.ir & www.linkedin.com/in/houshyar-j-b5aa7b105
+- 👀 I’m interested in Physics, Quantum Sensing, Artificial Intelligence and Quantum Computing.
+- 💞️ I’m looking to collaborate on High Energy Physics and Quantum Sensing projects and datasets.
+- 📫 How to reach me h.jafari@ph.iut.ac.ir & www.linkedin.com/in/houshyar-j-b5aa7b105
 
 <!---
 Houshyar-jfr/Houshyar-jfr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
